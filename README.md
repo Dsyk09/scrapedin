@@ -25,12 +25,3 @@ const profile = await profileScraper('https://www.linkedin.com/in/some-profile/'
 - [Documentation](https://github.com/linkedtales/scrapedin/wiki/Documentation)
 
 
-### Contribution
-
-Feel free to contribute. Just open an issue to discuss something before creating a PR.
-
-### License
-
-[Apache 2.0][apache-license]
-
-[apache-license]:./LICENSE
